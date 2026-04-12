@@ -1,0 +1,1162 @@
+[
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Féminin",
+    "output": "mada missem*"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Masculin",
+    "output": "mada kissem*"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Age",
+    "output": "manchk adarkilan/adarmilan ghal3mer"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Origine",
+    "output": "mani igan asslk"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Pays et ville de résidence",
+    "output": "manigh tzdght"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Marié",
+    "output": "iz tahelt"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Célibataire",
+    "output": "ourtahel7"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Divorcé",
+    "output": "Trzemt / Telle9t"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Le nombre d’enfants",
+    "output": "mnchk tarwa adarkilan ? / adamilan ?"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Profession",
+    "output": "iz tkhdmt ? ma7tkhdmt ?"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Couverture sanitaire",
+    "output": "iz dark/darm la mutuelle/taghtya"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Motif d'hospitalisation/ de consulation",
+    "output": "Mani tadent ? Mafdit touchkit ? Makyaghn ? (masculin)  Makmyaghn ? (Féminin)"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Diabète",
+    "output": "ila gik/gim skar"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "HTA",
+    "output": "ila gik/gim tension"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Maladie cardiovasculaire",
+    "output": "iss tadent l9elb"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Tuberculose",
+    "output": "iss gik(m)ila ssoul? / Iss mridn tourinek(m)"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Asthme",
+    "output": "iss gik(m)ila di9a ? / Iss aflam tziyarn idarmn ?"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Maladie psychiatrique",
+    "output": "iss taft kran marad nafssi"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "MST",
+    "output": "iss gik(m)ila marad jinssi"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Maladie",
+    "output": "Tamadount"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Avez-vous déjà été opéré(e)",
+    "output": "Iz jou tfte7t"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Prise médicamenteuse",
+    "output": "iz artchtat kran dwa"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Terrain  atopique/allergique",
+    "output": "iz dark(m) l7assassya"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Tabagisme",
+    "output": "iz artkmit"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Alcool",
+    "output": "iz atrssat"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Nombre d’enfants",
+    "output": "manchk tarwa adarmilan/adarkilan"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Est-ce qu'un membre de votre famille a été malade de...",
+    "output": "iss taft 7l3a2ila kra lidawane f ..."
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Nombre de grossesse",
+    "output": "mnchk ntwal atarout"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Menstruations",
+    "output": "iss gim ila 7e9 chher/idamn"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Contraception orale",
+    "output": "Art tssat lfanid ouwarraou"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Prise de médicaments",
+    "output": "Iss artchat kran doua"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Etes-vous vacciné",
+    "output": "Iss tsskert kran jelba"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Vaccin contre le tétanos",
+    "output": "Iss tsskert jelba nkezzaz"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Douleur",
+    "output": "armmad"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Est-ce que vous avez mal ?",
+    "output": "Tadent ?"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Quand est-ce que cela a commencé",
+    "output": "managou tmridt"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Localisation et irradiation (douleur)",
+    "output": "mani tadent ? tadent kramani yadni"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Type",
+    "output": "massa t7oussout"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Intensité",
+    "output": "tadent bzaf"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Rythme",
+    "output": "mchk ntwalt akmi itachka louje3 ghwass"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Facteurs qui aggravent",
+    "output": "artskart kra bash ayzayd ghalli tadent/sda3"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Facteurs qui soulagent",
+    "output": "artskart kra bash ayna9ss ghalli tadent/sda3"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Est-ce que vous ressentez autre chose ?",
+    "output": "art7oussout skra yadni"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Fièvre",
+    "output": "skhana"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Asthénie",
+    "output": "rmayt"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Amaigrissement",
+    "output": "td3eft"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Avez-vous maigri ?",
+    "output": "td3eft"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Anorexie",
+    "output": "isakt tfta chahya"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Avez-vous perdu l'appétit",
+    "output": "isakt tfta chahya"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Frissons",
+    "output": "tbouricha"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Sueurs",
+    "output": "art3ragut"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Œdèmes",
+    "output": "ibzig"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Prise de poids",
+    "output": "tdnayt"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Bouche",
+    "output": "imi"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Estomac",
+    "output": "m3da"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Foie",
+    "output": "tassa/kbda"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Vésicule biliaire",
+    "output": "lmrara"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Rate",
+    "output": "inrfed"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Intestin grêle",
+    "output": "ib3laln mzine"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Colon",
+    "output": "ab3loul m9ourne"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Abdomen",
+    "output": "a7lig"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Douleur abdominale",
+    "output": "tadent a7ligu"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Vomissements",
+    "output": "artrrat"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Dysphagie",
+    "output": "artzrayt 3adi"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Est-ce que vous avalez normalement ?",
+    "output": "artzrayt 3adi"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Je n'avale pas bien",
+    "output": "ourzdar7 atzray7"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Reflux gastro-œsophagien",
+    "output": "isak ya9lay lmrar"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Nausées",
+    "output": "ila gik iwrigh"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Prurit",
+    "output": "issa t7oukout"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Diarrhée",
+    "output": "ijra a7lig"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Constipation",
+    "output": "i9or a7lig"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Emission de gaz",
+    "output": "Iss atnefasst"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Aller à la selle",
+    "output": "Iss atftout bit lma"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Poumons",
+    "output": "Tourine"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Nez",
+    "output": "inkhar"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Torax/Poitrine",
+    "output": "idmarn"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Gorge",
+    "output": "Amgard"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Les côtes",
+    "output": "ighezdisn"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Toux",
+    "output": "artoussout"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Expectoration",
+    "output": "art skhakhayt"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Comment sont-elles ?",
+    "output": "manik adguan"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Blanches",
+    "output": "imloule"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Purulentes",
+    "output": "mguy7ine"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Hémopotoïques",
+    "output": "ila guiss idamen"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Volume",
+    "output": "Mnchk art skhakhayt"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Beaucoup",
+    "output": "iggout"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Un peu",
+    "output": "imik"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Odeur/Est-ce qu'il y a une odeur ?",
+    "output": "Darss ado"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Hémoptysie",
+    "output": "arssoufouss7 idamen"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Douleur thoracique",
+    "output": "taden7 idmarn"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Dyspnée",
+    "output": "ouraya9lay anfouss/ oura tnfass7 mzyan"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Ventoline",
+    "output": "rabouse"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Coeur",
+    "output": "Oul"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Vaisseaux",
+    "output": "Izoran"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Palpitations",
+    "output": "Iss atrgagay oulnek/oulnem"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "La douleur est-elle déclenchée par l’effort",
+    "output": "Tadent koudna t7arakt"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Où se situe la douleur ?",
+    "output": "Mani tadent"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Infarctus du myocarde (Crise cardiaque)",
+    "output": "lcrise nl9elb"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Arrêt cardiaque",
+    "output": "ifiss oul"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Syncope",
+    "output": "Sekhfa"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Tête",
+    "output": "agayou"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Cerveau",
+    "output": "L3a9el"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Yeux",
+    "output": "aln"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Langue",
+    "output": "ilss"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Vertiges",
+    "output": "doukha/dawissa"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Céphalées",
+    "output": "iss tadent agayoun"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Tremblements",
+    "output": "artrguiguegh"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Troubles de conscience",
+    "output": "iss di t3a9elt iss tssnt manikhtlit"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Mouvements anormaux",
+    "output": "iss atsskart kra 7araka bzzez"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Epilepsie",
+    "output": "sr3"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Fourmillements",
+    "output": "tnmal"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Sciatique",
+    "output": "Bouzloum"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Paralysie",
+    "output": "imout fella"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Sommeil",
+    "output": "itss Iss ateggant"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Sensibilité",
+    "output": "t7oussout"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Reins",
+    "output": "tigzzal"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Vessie",
+    "output": "nboula"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Colique néphrétique",
+    "output": "iss tanedt tigzzal"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Brûlures mictionnelles",
+    "output": "iss gik(m) ila 7ri9 wamane"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Dysurie",
+    "output": "iss ak ch9ane wamane adfoughn"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Pollakiurie",
+    "output": "imik wamane"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Impériosité mictionnelle",
+    "output": "iss ourtzdart at7ssrt amane"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Incontinence urinaire",
+    "output": "iss atzrayt swamane"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Hématurie",
+    "output": "iss gik(m) ila idamn ghwamane"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Pyurie",
+    "output": "iss gik(m) ila lgui7 ghwamane"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Emission de calcul",
+    "output": "iss gik(m)ila azrou ghwamane"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Uriner",
+    "output": "Iss atskart aman tbezdat"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Les urines",
+    "output": "ibzdan aman"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Les calculs",
+    "output": "izrane"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Appareil génital",
+    "output": "Appareil génital"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Parties du corps",
+    "output": "Parties du corps"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Verge",
+    "output": "izdarn"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Testicules",
+    "output": "Tiglay"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Douleur des bourses",
+    "output": "Iss tadent l7jernek"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Impuissance",
+    "output": "L3ajz Ljinssi"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Perte de libido",
+    "output": "nfssi barda"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "FEMININ",
+    "output": "FEMININ"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Vagin, vulve",
+    "output": "izdarn"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Utérus",
+    "output": "Lwalda"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Trompes",
+    "output": "Lgrone"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Leucorrhées",
+    "output": "Aman izddar"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Aspect",
+    "output": "Manik atgan"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Couleur",
+    "output": "Loun"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Marrons",
+    "output": "i9ehwine"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Noires",
+    "output": "khdern"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Sales",
+    "output": "arkan"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Propres",
+    "output": "in9in"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Odeur",
+    "output": "Ado"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Aménorrhées",
+    "output": "Bin idamn"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Les seins",
+    "output": "ibban"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "1 sein",
+    "output": "Tibbit"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Date des dernières règles",
+    "output": "Man agou yam douchkan akhir mera idamn"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Ménopause",
+    "output": "Sin lyass"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Cycles réguliers",
+    "output": "gaddan idamn"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "IVG",
+    "output": "ay7iyed arraou"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Fausses couches",
+    "output": "ikhsser bnadem"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Maladie durant la grossesse",
+    "output": "Iss tmret li7a tarout"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Sterilet",
+    "output": "sselk"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Modalités d’accouchement",
+    "output": "Manik ass tourout"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Maison",
+    "output": "tigmmi"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Hôpital",
+    "output": "sbitar"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Césarienne",
+    "output": "Lfti7"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Episiotomie",
+    "output": "Lghraz"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Appareil locomoteur",
+    "output": "Appareil locomoteur"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Epaule",
+    "output": "tighrad"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Bras",
+    "output": "ifassen"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Main",
+    "output": "afouss"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Bassin",
+    "output": "dou7lig"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Membre inférieur",
+    "output": "adar"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Genou",
+    "output": "afoud"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Os",
+    "output": "ikhssan"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Talon",
+    "output": "awerz"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Les doigts",
+    "output": "idoudan"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "1 doigt",
+    "output": "Adad"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Dos",
+    "output": "dher"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Plante de pied",
+    "output": "douadar"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Hémoglobine glyquée",
+    "output": "Lkhezzan"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Schizophrénie",
+    "output": "Nfessam chekhssia"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Anémie",
+    "output": "Fa9er dam"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Oreilles",
+    "output": "imzgan"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "1 oreille",
+    "output": "Amzogh"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Ongles",
+    "output": "isskarn"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "1 ongle",
+    "output": "isskr"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Tissent",
+    "output": "Le sel"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Boutons",
+    "output": "Ti7ebbit"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Infecté",
+    "output": "ikhemj"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Hypersalivation",
+    "output": "Issoufouss"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Attraper froid",
+    "output": "youtiyi assemed"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "J’ai la bouche sèche",
+    "output": "i9our iminou"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Bouffée de chaleur",
+    "output": "artghouf"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Examen physique",
+    "output": "Examen physique"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Décubitus dorsal",
+    "output": "guen fdhernk(m)"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Décubitus latéral gauche",
+    "output": "guen fjenb azlmad"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Décubitus latéral droit",
+    "output": "guen fjenb afassi"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Position assise",
+    "output": "gawr/skouss"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Décubitus ventral",
+    "output": "guen fou7ligunk(m)"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "De fléchir les genoux",
+    "output": "ado afoudnk(m)"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Marcher",
+    "output": "matti artftout"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Fermer les yeux",
+    "output": "9n alnk(m)"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Ouvrir la bouche",
+    "output": "rzem imink(m)"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Inspirer",
+    "output": "sghlid nefssnk(m)"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Expirer",
+    "output": "rzm/sguiz nefssnk(m)"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Analyses sanguines",
+    "output": "Ta7alil idamn"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "ECG",
+    "output": "tkhtit noul / tkhtit l9elb"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Echographie",
+    "output": "Telfaza"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Analyses d’urines",
+    "output": "Ta7alil nwaman"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Radiographie",
+    "output": "Radio"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "1",
+    "output": "yan"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "2",
+    "output": "sin"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "3",
+    "output": "krad"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "4",
+    "output": "kkuz"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "5",
+    "output": "smmuss"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "6",
+    "output": "sdiss"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "7",
+    "output": "ssa"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "8",
+    "output": "tam"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "9",
+    "output": "tza"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "10",
+    "output": "mraw"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "11",
+    "output": "yan d mraw"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "12",
+    "output": "sin d mraw"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "13",
+    "output": "krad d mraw"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "14",
+    "output": "kkuz d mraw"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "15",
+    "output": "smmuss d mraw"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Le matin",
+    "output": "zik sba7"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Midi",
+    "output": "t7a / Dohr"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "L’après-midi",
+    "output": "tadouguat"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Le soir/la nuit",
+    "output": "ghyed / Dyed"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Hier",
+    "output": "idguam"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Avant-hier",
+    "output": "assfane"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Aujourd’hui",
+    "output": "ghassad"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Demain",
+    "output": "sba7"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Le mois d’avant",
+    "output": "chher li izrine"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du français vers le Tachelhit.",
+    "input": "Un an",
+    "output": "assgass"
+  }
+]
