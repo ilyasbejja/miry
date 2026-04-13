@@ -1,0 +1,898 @@
+[
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "I used to swim a lot.",
+    "output": "kkiġtin ar tæumġ bzzaf."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "He used to work in this hospital.",
+    "output": "ikkatin ar itxdam ġ s-sbiṭar ad."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "They used to speak French very well.",
+    "output": "kkantin ar sawaln tafransist mzyan."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "I used to smoke a lot.",
+    "output": "kkiġtin ar kmmiġ bzzaf."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Which one is yours?",
+    "output": "manwa igan wink?"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Who robbed the bank?",
+    "output": "ma yukrn l-banka?"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Who broke the glass of the window?",
+    "output": "ma yrzan j-jaj n š-šrjm ad?"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Who has eaten my pizza?",
+    "output": "ma yššan l-ppitzanu?"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Who took the money from the wallet?",
+    "output": "ma yusin l-flus g l-bzītam?"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "I bought a nice rug.",
+    "output": "sgijg yat tzrbit ihlan."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Give me a cold coke, please.",
+    "output": "fkiyyi yat kuka ibrdn εafak."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Hassan wrote the lesson.",
+    "output": "yura hassan d-drs."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "The lesson was written.",
+    "output": "d-drs ityara."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "The students understood the riddle.",
+    "output": "fhmm t-tlamd l-lugz."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "The riddle was understood.",
+    "output": "l-lugz itwafham."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "The thief stole the books.",
+    "output": "yukr umxxar l-ktub."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "The books were stolen.",
+    "output": "l-ktub tyakarn."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Fatima bought three dresses.",
+    "output": "tsga fatima krat l-ksawi."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "The dresses were bought.",
+    "output": "l-ksawi twasgant."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "I bought in a dog to the house but my father took it out.",
+    "output": "skšmǵ yan wiydi s tǵmmi walaynni issufǵt baba."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Wake up your brother.",
+    "output": "snkr gmak."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Turn on the TV, please.",
+    "output": "sxdm t-tlfaza, ǵafak."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "You understand.",
+    "output": "tfhmt"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Make me understand.",
+    "output": "sfhmiyyi"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "You laugh/are laughing",
+    "output": "ar tssat"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "You make me laugh.",
+    "output": "ar iyyi tstsat"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Ninety",
+    "output": "kuz ida ēšrin d mraw"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "One hundred",
+    "output": "miya"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "One thousand",
+    "output": "alf"
+  },
+  {
+    "instruction": "Traduis la phrase suivante du Tachelhit vers l'anglais.",
+    "input":"A man was filling some leather bags of honey in the souk. There came another man to him, who wanted to buy honey. He said: “At how much do you sell that honey?” The seller said to him: “Just taste it, and if it pleases you, make a bid.” The man took a bag, poured out some, tasted the honey and gave it back to its owner; he said: “Please hold it, so that I can try another one”. The seller held it in his hand, the buyer took another bag, poured out some, tasted the honey and gave it back to its owner, who held it in his other hand. Then the man took another bag of honey and ran away. The seller could not do anything because of the bags he held. He called for help until they liberated him.",
+    "output": "Yan urgaz iɛmmr mnnaw yilmawn n tammnt ɣ ssuq. Yašk nn dars yan urgaz, ira ad dars isɣ tammnt. Inna yas: “Mnšk at tzznzt tammnt ann?” Inna yas: “Mḍi tt, iɣ tt tɛjb ar gis tsawalt.” Yasi urgaz ann yan yilm, ifsi t, imḍi tammnt, ifk t i bab nns, inna as: “Amẓ, ar kiɣ gussɣ wayyaḍ.” Yamẓ t s ufus nns, yasi daɣ umssaɣ lli wayyaḍ, ifsi t, imḍi tammnt, ifk t daɣ i bab nns. Yamẓ t s ufus nns yaḍnin, yasi umssaɣ yan yilm n tammnt, irur, iggammi bu tammnt mad an iskar i yilmawn lli yumẓ. Ar yaqqra i mddn at t fukkun."
+  },
+  {
+    "instruction": "Traduis la phrase suivante du Tachelhit vers l'anglais.",
+    "input": "The story of the man who sold honey in the souk.",
+    "output": "Lqiṣt n yan urgaz lli izznzan tammnt ɣ ssuq."
+  },
+  {
+    "instruction": "Traduis le nombre suivant de l'anglais vers le Tachelhit.",
+    "input": "Eleven",
+    "output": "yan d mraw"
+  },
+  {
+    "instruction": "Traduis le nombre suivant de l'anglais vers le Tachelhit.",
+    "input": "Twelve",
+    "output": "sin d mraw"
+  },
+  {
+    "instruction": "Traduis le nombre suivant de l'anglais vers le Tachelhit.",
+    "input": "Thirteen",
+    "output": "krad d mraw"
+  },
+  {
+    "instruction": "Traduis le nombre suivant de l'anglais vers le Tachelhit.",
+    "input": "Fourteen",
+    "output": "kuz d mraw"
+  },
+  {
+    "instruction": "Traduis le nombre suivant de l'anglais vers le Tachelhit.",
+    "input": "Fifteen",
+    "output": "smmus d mraw"
+  },
+  {
+    "instruction": "Traduis le nombre suivant de l'anglais vers le Tachelhit.",
+    "input": "Sixteen",
+    "output": "sdis d mraw"
+  },
+  {
+    "instruction": "Traduis le nombre suivant de l'anglais vers le Tachelhit.",
+    "input": "Seventeen",
+    "output": "sa d mraw"
+  },
+  {
+    "instruction": "Traduis le nombre suivant de l'anglais vers le Tachelhit.",
+    "input": "Eighteen",
+    "output": "tam d mraw"
+  },
+  {
+    "instruction": "Traduis le nombre suivant de l'anglais vers le Tachelhit.",
+    "input": "Nineteen",
+    "output": "tza d mraw"
+  },
+  {
+    "instruction": "Traduis le nombre suivant de l'anglais vers le Tachelhit.",
+    "input": "Twenty",
+    "output": "εšrin"
+  },
+  {
+    "instruction": "Traduis le nombre suivant de l'anglais vers le Tachelhit.",
+    "input": "Twenty-one",
+    "output": "εšrin d yan"
+  },
+  {
+    "instruction": "Traduis le nombre suivant de l'anglais vers le Tachelhit.",
+    "input": "Twenty-two",
+    "output": "εšrin d sin"
+  },
+  {
+    "instruction": "Traduis le nombre suivant de l'anglais vers le Tachelhit.",
+    "input": "Twenty-three",
+    "output": "εšrin d krad"
+  },
+  {
+    "instruction": "Traduis le nombre suivant de l'anglais vers le Tachelhit.",
+    "input": "Twenty-four",
+    "output": "εšrin d kuz"
+  },
+  {
+    "instruction": "Traduis le nombre suivant de l'anglais vers le Tachelhit.",
+    "input": "Twenty-five",
+    "output": "εšrin d smmus"
+  },
+  {
+    "instruction": "Traduis le nombre suivant de l'anglais vers le Tachelhit.",
+    "input": "Twenty-six",
+    "output": "εšrin d sdis"
+  },
+  {
+    "instruction": "Traduis le nombre suivant de l'anglais vers le Tachelhit.",
+    "input": "Twenty-seven",
+    "output": "εšrin d sa"
+  },
+  {
+    "instruction": "Traduis le nombre suivant de l'anglais vers le Tachelhit.",
+    "input": "Twenty-eight",
+    "output": "εšrin d tam"
+  },
+  {
+    "instruction": "Traduis le nombre suivant de l'anglais vers le Tachelhit.",
+    "input": "Twenty-nine",
+    "output": "εšrin d tza"
+  },
+  {
+    "instruction": "Traduis le nombre suivant de l'anglais vers le Tachelhit.",
+    "input": "Thirty",
+    "output": "εšrin d mraw"
+  },
+  {
+    "instruction": "Traduis le nombre suivant de l'anglais vers le Tachelhit.",
+    "input": "Forty",
+    "output": "sin ida εšrin"
+  },
+  {
+    "instruction": "Traduis le nombre suivant de l'anglais vers le Tachelhit.",
+    "input": "Fifty",
+    "output": "sin ida εšrin d mraw"
+  },
+  {
+    "instruction": "Traduis le nombre suivant de l'anglais vers le Tachelhit.",
+    "input": "Sixty",
+    "output": "krad ida εšrin"
+  },
+  {
+    "instruction": "Traduis le nombre suivant de l'anglais vers le Tachelhit.",
+    "input": "Seventy",
+    "output": "krad ida εšrin d mraw"
+  },
+  {
+    "instruction": "Traduis le nombre suivant de l'anglais vers le Tachelhit.",
+    "input": "Eighty",
+    "output": "kuz ida εšrin"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "A brush",
+    "output": "šita"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "The brush",
+    "output": "š-šita"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "A car",
+    "output": "tumubil"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "The car",
+    "output": "t-tumubil"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "A market",
+    "output": "suq"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "The market",
+    "output": "s-suq"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "A box",
+    "output": "snduq"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "The box",
+    "output": "s-snduq"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "A book",
+    "output": "ktab"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "The book",
+    "output": "l-ktab"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "A door",
+    "output": "bab"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "The door",
+    "output": "l-bab"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "A shirt",
+    "output": "qamiĵa"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "The shirt",
+    "output": "l-gamiĵa"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "A glass",
+    "output": "kas"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "The glass",
+    "output": "l-kas"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Peace be upon you.",
+    "output": "s-salamu ɛlāyukum."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Peace be upon you, too. Welcome.",
+    "output": "wa ɛlāyukum s-salam. mrhba bik."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "What are you doing at home?",
+    "output": "ma tskart ġ tgmmi?"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Nothing, just sitting around.",
+    "output": "walu, ġir ggiwrġ."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Let's go out.",
+    "output": "yallah a nfġ."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Okay.",
+    "output": "waxxa."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "What is this? This lock is not strong. You need a strong one. You also need a sliding metal bolt in order to lock the door from the inside.",
+    "output": "mayad? l-qfl ad immut, ixṣṣak yan iṣhan d yat s-saqta baš a tqqnt ġ ugns."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Good idea. Where can I get these from?",
+    "output": "mani ġ ra tn sġġ?"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "From the hardware store. Also this window needs iron bars for you to feel safe. Let's go to the welder's to fix this window now. You need to measure it.",
+    "output": "ġ d-drugri. ula s-srjmd ad xṣṣant l-barrat n l-ḥdid baš a thnnat. yallah a nddu s dar s-sudur a nṣawb š-šrjmd ad bɛda, ixṣṣak ġir a tamzt l-ɛbarns."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Okay, may God bless your parents.",
+    "output": "waxxa, llay rhm l-waldin."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Talk to Bush about stopping this war.",
+    "output": "sawl d Bush a yhbs l-hrb ad."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "I'm just a normal citizen from America. My job is to help people in Morocco. That's all I know.",
+    "output": "ncki giĝ ĝir muwaṭin ẏadi ĝ mirikan, uškiĝd s l-mĝrib baš ad ẏawng middn, ĝayad ad snĝ."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "But in America you say you have freedom and democracy.",
+    "output": "walaynni ar tṭnim darun l-hurriya d d-dimuqraṭiya."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "That's true, but I'm just a normal American.",
+    "output": "yah, awalnna iṣha, walaynni nkki ĝir yan ĝ š-šẏ b ad giĝ."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "You are all the same. You all like war. In America more than 50% of the people are for the war.",
+    "output": "kulukun zund zund, ar tṭirim l-hrb ĝ mirikan. kṭr mn 50% n middn ttafqn d l-hrb. ula kiyyi tgit gisn."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "No, I am with the other Americans against the war.",
+    "output": "uhu, nkki giĝ ĝ 50% lli ur irin l-hrb."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "How are we going to know?",
+    "output": "mamnk s ra nssn?"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Peace be upon you.",
+    "output": "s-salamu ẹlàykum."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Peace be upon you, too. Can I help you?",
+    "output": "wa ẹlàykum s-salam, mak ixṣṣan?"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "My bag was stolen.",
+    "output": "ityakar iyyi yan ṣ-ṣak."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Okay, your passport please.",
+    "output": "waxxa, fkiyyi l-ppaspurnk."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "I have only my 'carte de sejour'. Here you are.",
+    "output": "dari ġir lakar d sijur, hak."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "That's okay. When was it stolen?",
+    "output": "māsi muškil, man l-uqt ak idda ṣ-ṣak?"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "At 3:00 in the afternoon.",
+    "output": "ġ 3:00 n tdgqat."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Can you describe the thief?",
+    "output": "mamnk iga umxxar lli ak yukrn ṣ-ṣak?"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "He was tall and was wearing jeans and a red T-shirt.",
+    "output": "iġzzif, ilsadjin d yan tišurt azggaġ."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "What did you have in the bag?",
+    "output": "ma gis illan ġ ṣ-ṣak?"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "A cell phone, a towel, a book, a walkman, and 200 dirhams.",
+    "output": "gis l-ppurtabl d l-fuṭa d yan l-ktab d yat l-musjjala (walkman) d 200 drhm"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Okay, sir, we'll do our investigation and we'll get in touch with you later.",
+    "output": "waxxa, a sidi. ra nskr yan l-bħt mn bɛd ra srk nttasl."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "That's it? Can I leave?",
+    "output": "ṣafi, ġir ad dduġ?"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Wait a minute, you've got to take a photocopy of the report.",
+    "output": "uhu, šuwr ar tawit yat n-nsxa n r-rappur."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Okay, thanks.",
+    "output": "waxxa šukran."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Here you are. We'll get in touch with you. Be careful in the future.",
+    "output": "hak, ra srk nttsl mn bɛd. kun ɛla bal tikklt yaḍnin."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Where's the closest police gendarme station, please?",
+    "output": "manig tlla kra n l-kumisariya / l-brigad n j-jundarm iqrbn, εafak?"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "I want to make a statement about a sexual harassment (incident).",
+    "output": "riĝ ad blĝĝ f yan urgaz ar flli itbssal."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "What police station should I go to?",
+    "output": "man l-kumisariya s rad dduĝ?"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Take me to the closest police station, please.",
+    "output": "awiyyi s kra n l-kumisariya iqrbn, εafak."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Pay attention.",
+    "output": "kun εla bal."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Come with me to the police.",
+    "output": "yallah a nddu s dar l-bulis"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Come here, are you looking for hash?",
+    "output": "aškid, is ar tqllabt s l-Hšiš?"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "No. go away. I don't use it.",
+    "output": "uhu, zayd s šğalnk, nkki ura stεmalǧ l-Hšiš."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Come on. It's good stuff.",
+    "output": "aškid, dari yat l-kalitti ur a tduwwar."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "I said go away. I don't smoke.",
+    "output": "nnig ak fkiyyi s t-tisaε. nkki ur a kmmiǧ."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Look, I'll give you a good price.",
+    "output": "ra didk skrǧ yan t-taman iHlan."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "You look; if you keep bothering me I'll call the police.",
+    "output": "šuf a ssi, iǧ iyyi sul tlşqt ra tiniǧ i l-bulis, nkki ur a kmmiǧ."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Police! Okey, may God help you.",
+    "output": "l-bulis! ṣafi ak iεawn rbbi."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Hello, how are you?",
+    "output": "ahlan manik tgit?"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Fine, thanks be to God. Welcome.",
+    "output": "labas, l-ħamdullah, mriħba bikm."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Thanks. I smell gas.",
+    "output": "a srm irriħb l-xir, kdiġ adu n l-buta."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "I don't smell it. I have a gas detector but it run out of batteries.",
+    "output": "ur kdiġ walu, dari d-dittikturn l-gaz, walaynni ur gis l-ħjrat."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "You should always have it on. This is no game. Let's look at the rubber gasket ring first.",
+    "output": "ixsşakm a t sxdmt, ġayad ur gis l-mzaħ, bllati a nzr j-jlda n l-buta bēda."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Okay.",
+    "output": "waxxa."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "You see, the rubber ring is torn. This is dangerous. We have to change it, then test it with water and soap.",
+    "output": "j-jlda yad tmmut, l-xatar a tskart. ixsşa a tt nbddl, njrrb s waman d ş-sabun."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Okay, may God bless your parents.",
+    "output": "waxxa, llay rhm l-waldin."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Our parents and yours.",
+    "output": "waldina u waldik."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Peace be upon you.",
+    "output": "s-salamu ē alaykum."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Peace be upon you too.",
+    "output": "wa ē alaykum s-salam."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Excuse me, I forgot my wallet in a taxi.",
+    "output": "samhiyyi, ttuġ l-bżtaminu ġ yat t-taksi."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Okay, what's your name?",
+    "output": "waxxa, ma ysrnk?"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "My name is Brian ...",
+    "output": "isminu brayan."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "What was in the wallet?",
+    "output": "ma yllan ġ l-bżtam?"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "My passport, a Visa card, and 500 dirhams.",
+    "output": "gis l-ppaspurin u d yat lakart viza d 500 drhm."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Do you remember the taxi's number?",
+    "output": "is t-ċaqlt f n-nmra n t-taksi?"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "52.",
+    "output": "52."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Okay, leave me your phone number, we'll call you later.",
+    "output": "waxxa, fkiyyi n-nmra n t-tilifunnk, ra srk nt-tasl mn bēd."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Thanks.",
+    "output": "šukran."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "It's my duty.",
+    "output": "Ila šukran ē ala wajib."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "There is a gas smell.",
+    "output": "illa wadu n l-buta."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Turn on the detector.",
+    "output": "sssxdm d-ditiktur"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Test the butagas tank with water and soap.",
+    "output": "jrrb l-buta s waman d s-sabun."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Change the rubber ring if it's torn.",
+    "output": "bddl j-jlda n l-buta ig tbbi."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Help me.",
+    "output": "εawniyyi"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "I lost my passport.",
+    "output": "jliĝ l-ppaspurinu."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "I forgot my wallet in ...",
+    "output": "ttug l-bztaminu ĝ..."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Where's the police station?",
+    "output": "maniĝ tlla l-kumisariya?"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Help me! (use only in extreme danger)",
+    "output": "εtqu r-ruħ!"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Peace be upon you. You came in early today.",
+    "output": "s-salamu ẹ́ alaykum. zik gạssad."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Peace be upon you too. A little bit.",
+    "output": "wa ẹ́ alaykum s-salam. świya."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "What's this? Why did you bring your bike into the office?",
+    "output": "ma yad tskrt? max lliǵ d tskšmt l-bišklit s l-biru?"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Oh. It will be stolen if I leave it outside.",
+    "output": "ira a ytyakar iǵ tin flǵ ġ brra."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "But this is not the place for bikes.",
+    "output": "walakin ġid ur igi l-blašt n l-bišklitat."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Yes, but what should I do?",
+    "output": "yah, walakin ma rad skrġ?"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Use a lock with the bike, and lock it to the gate.",
+    "output": "gas l-qfl i l-bišklit, tqqnt d l-bab n brra."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Good idea. I didn't think about that.",
+    "output": "l-fikra ifulkin aynna, ur gis ffkkrġ."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Do you have a lock?",
+    "output": "is dark illa l-qfl?"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Yes, I have one. I'll take it outside now and lock it to the gate.",
+    "output": "yah illa dari, rad fġ ġilad a tin qqnġ d l-bab n brra."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Lock now what you will find later.",
+    "output": "qqn a taft ma trzmt."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "God bless your parents.",
+    "output": "l-lah yrħm l-waldin."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Our parents and your parents.",
+    "output": "waldina u waldik."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "A seat to Tata, a seat to Tata.",
+    "output": "yat l-blašt s taħa, yat l-blašt s taħa."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "I am going to Tata.",
+    "output": "nki riġ taħa."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Get in.",
+    "output": "ġli."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Wait. Let me see the taxi first... I don't want to go in this taxi.",
+    "output": "bllati, ad zrġ t-taksi bċ da. ur riġ a dduġ ġ t-taksi yad."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Why?",
+    "output": "max?"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "The tires are smooth and the windshield is cracked.",
+    "output": "r-rwayd kullu twamsaḥnt, d j-jaj lgddam istġ."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Come on, don't worry. Nothing is going to happen.",
+    "output": "ġir ġli, ur tkġut, ur ra yuqq walu."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Find me a good taxi, please.",
+    "output": "uhu, izar iyyi kra n t-taksi yaqnin, ċ afak."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "You will have to wait a little bit.",
+    "output": "ixsġak a tqqt imik."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Time is not a problem. I'll wait.",
+    "output": "l-uqt maši muškil. rad qqlġ."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Drive slowly please.",
+    "output": "sug ġir s lħil, ɛafak."
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Seat",
+    "output": "l-blast"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Tire",
+    "output": "r-rwida"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Smooth",
+    "output": "twamsah"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Windshield",
+    "output": "j-jaj"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "Cracked",
+    "output": "istg"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "To be afraid",
+    "output": "ksug"
+  },
+  {
+    "instruction": "Traduis la phrase suivante de l'anglais vers le Tachelhit.",
+    "input": "To happen",
+    "output": "aqe/jru"
+  }
+
+]
